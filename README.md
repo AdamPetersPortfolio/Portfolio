@@ -1,3 +1,3 @@
 # Portfolio
 
-![](https://github.com/AdamPetersPortfolio/PitchCounter "Pitch Counter")
+[](https://github.com/AdamPetersPortfolio/PitchCounter "Pitch Counter")
