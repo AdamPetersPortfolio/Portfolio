@@ -3,7 +3,7 @@
 ## Table of Contents
 [Pitch Counter](https://github.com/AdamPetersPortfolio/PitchCounter)
 
-[Image Compressor](https://github.com/AdamPetersPortfolio/Comp40ImageCompression)
+[Neural](https://github.com/adamgpeters/neural)
 
 [Universal Machine](https://github.com/AdamPetersPortfolio/UniversalMachine)
 
